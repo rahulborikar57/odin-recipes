@@ -1,6 +1,3 @@
-This is the first project to be uploaded to Github
-Expect the following skills to be showcased in this project
--Simple and Clean code
--Simple and consistent commit logs
--Easy to recode the project when needed
--Efficient Code
+#Odin-recipe
+This is a test website used for implementing the skills learned during the TOP course
+My goal of this website is to make this as bare basic as possible
